@@ -1,0 +1,2 @@
+# rnsmwrsim
+Ransomware Simulator
